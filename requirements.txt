@@ -1,0 +1,22 @@
+# required lib for this solution
+# pytorch has to be 0.3.1
+# keras has to be 2.1.6
+# tensorflow > 1.8 should be good
+h5py==2.8.0
+imgaug==0.2.6
+Keras==2.1.6
+numpy==1.14.5
+opencv-python==3.4.1.15
+pandas==0.23.0
+Pillow==5.1.0
+pretrainedmodels==0.7.0
+pycparser==2.18
+scikit-image==0.13.1
+scikit-learn==0.19.1
+scipy==1.1.0
+six==1.11.0
+tensorboard==1.9.0
+tensorflow-gpu==1.9.0
+torch==0.3.1.post2
+torchvision==0.1.9
+tqdm==4.23.4

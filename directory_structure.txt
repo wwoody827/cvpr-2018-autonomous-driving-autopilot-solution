@@ -1,0 +1,14 @@
+./models
+./data
+./source
+./source/pytorch-mask-rcnn
+./source/ensemble
+./source/mask_rcnn
+./source/mask_rcnn/mrcnn
+./source/preprocess
+./submissions
+./submissions/ensemble
+./submissions/ensemble/test_20180521_00_mask_th0.35_nms_th_0.6_Scale_1Flip_True
+./submissions/ensemble/test_20180521_00_mask_th0.35_nms_th_0.6_Scale_1Flip_False
+./submissions/ensemble/test_resnet_v2_201806010_00_mask_th_0.5_nms_th_0.8_Scale_1_Flip_False_DT_NMS_TH_0.3
+./logs
