@@ -1,0 +1,1 @@
+{"RAW_DATA_DIR": "./data/", "TRAIN_DATA_CLEAN_PATH": "./data/", "TEST_DATA_CLEAN_PATH": "./data/", "MODEL_CHECKPOINT_DIR": "./models/", "LOGS_DIR": "./logs/", "SUBMISSION_DIR": "./submissions/"}
