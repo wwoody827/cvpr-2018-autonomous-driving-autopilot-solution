@@ -1,3 +1,9 @@
+#(Update 2018/10/22)
+
+I uploaded the keras weights to Google Drive
+https://drive.google.com/file/d/1ZbzWQT3duxUnVNZPFopGkJTzukqEhdOp/view?usp=sharing
+
+
 Hello!
 
 Below you can find a outline of how to reproduce my solution for the cvpr-2018-autonomous-driving competition.
