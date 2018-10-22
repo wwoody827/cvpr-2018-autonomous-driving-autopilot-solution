@@ -1,4 +1,4 @@
-#(Update 2018/10/22)
+# (Update 2018/10/22)
 
 I uploaded the keras weights to Google Drive
 https://drive.google.com/file/d/1ZbzWQT3duxUnVNZPFopGkJTzukqEhdOp/view?usp=sharing
