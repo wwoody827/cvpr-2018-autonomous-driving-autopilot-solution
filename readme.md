@@ -1,8 +1,18 @@
-# (Update 2018/10/22)
+
+## (Update 2018/11/02)
+Here is the link to both keras weights and pytorch weights.
+
+https://drive.google.com/drive/folders/1M1ZEbnIRsCsdI9ltNRiAc3ZvR0MMLtig?usp=sharing
+
+The pytorch solution is based on a unofficial implement of Mask RCNN, and is not compatiable with pytorch > 0.3.1. Since the offical one is open sourced now (https://github.com/facebookresearch/maskrcnn-benchmark), I suggest not to use the pytorch weights or code for your future project.
+
+-----------------------------------------------------------------------
+## (Update 2018/10/22)
 
 I uploaded the keras weights to Google Drive
 https://drive.google.com/file/d/1ZbzWQT3duxUnVNZPFopGkJTzukqEhdOp/view?usp=sharing
 
+---------------------------------
 
 Hello!
 
